@@ -1,0 +1,4 @@
+0.75 Business
+0.12 Sporty
+0.11 Amekaji
+0.02 Wannabe

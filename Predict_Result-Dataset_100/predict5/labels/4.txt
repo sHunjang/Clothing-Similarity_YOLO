@@ -1,0 +1,5 @@
+0.97 Casual
+0.02 Business
+0.01 Wannabe
+0.00 Sporty
+0.00 Amekaji
