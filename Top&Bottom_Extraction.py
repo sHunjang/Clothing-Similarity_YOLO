@@ -3,7 +3,7 @@ import torch
 from pathlib import Path
 from ultralytics import YOLO  # YOLO 모델 로드
 
-# YOLOv8 모델 불러오기 (ultralytics 라이브러리로 로드)
+# YOLOv8 모델 불러오기
 model = YOLO('TOP&BOTTOM_Detection.pt')  # 사용자 모델 경로
 
 # 이미지 불러오기

@@ -21,5 +21,5 @@ result_combination = Pretrained_Model.predict(
     save=True,
     save_txt=True,
     project=Predict_Result_Path_100,
-    device='mps'
+    device='mps',
 )
